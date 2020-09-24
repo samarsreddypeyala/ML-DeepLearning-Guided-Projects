@@ -1,2 +1,2 @@
-# Machine Learning, Data Analysis and OpenCV Projects 
+## Machine Learning, Data Analysis, OpenCV and Deep Learning Projects 
 ### Coursera Guided Projects
